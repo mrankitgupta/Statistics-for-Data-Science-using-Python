@@ -1,4 +1,4 @@
-# Statistics for Data Science using Python Project by IBM
+# Statistics for Data Science using Python - by IBM
 Sharing the solved Exercises & Project of Statistics for Data Science using Python course on Coursera by Ankit Gupta
 
 ### About this Course
