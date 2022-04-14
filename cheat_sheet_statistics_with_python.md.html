@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://skills-network-assets.s3.us.cloud-object-storage.appdomain.cloud/styles/sn.css">
+  </head>
+  <body>
+    <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DL0110EN-SkillsNetwork/labs/Week7/images/IDSNlogo.png" width="300">
+    <h1>Cheat Sheet for Statistical Analysis in Python</h1>
+    <h2>Table of contents</h2>
+    <p>This is a summary of the libraries and functions we used in the course.</p>
+    <ol>
+      <li><a href="#average">Descriptive Statistics</a></li>
+      <li><a href="#seaborn">Data Visualization</a></li>
+      <li><a href="#Testing">Hypothesis Testing</a></li>
+    </ol>
+    <h2>Descriptive Statistics</h2>
+    <p>Here is a quick review of some popular functions:</p>
+    <ul>
+      <li>To find the average of the data, we use the <code>mean()</code> function</li>
+      <li>To find the median of the data, we use the <code>median()</code> function</li>
+      <li>To find the mode of the data, we use the <code>mode()</code> function</li>
+      <li>To find the variance of the data, we use the <code>variance()</code> function</li>
+      <li>To find the standard deviation of the data, we use the <code>stdev()</code> function</li>
+      <li>To get the unique values in a dataset, we use the <code>unique()</code>. <code>unique()</code> prints out the values and <code>nunique()</code> prints out the number of unique values.</li>
+    </ul>
+    <h2>Data Visualization</h2>
+    <p>
+      One of the most popular visualization tools is the <code>seaborn</code> library. It is a Python Data visualization library that is based on <code>matplotlib</code>. You can learn more <a href="https://seaborn.pydata.org?cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork-20531532&#x26;cm_mmca1=000026UJ&#x26;cm_mmca2=10006555&#x26;cm_mmca3=M12345678&#x26;cvosrc=email.Newsletter.M12345678&#x26;cvo_campaign=000026UJ&#x26;cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork-20531532&#x26;cm_mmca1=000026UJ&#x26;cm_mmca2=10006555&#x26;cm_mmca3=M12345678&#x26;cvosrc=email.Newsletter.M12345678&#x26;cvo_campaign=000026UJ&#x26;cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork-20531532&#x26;cm_mmca1=000026UJ&#x26;cm_mmca2=10006555&#x26;cm_mmca3=M12345678&#x26;cvosrc=email.Newsletter.M12345678&#x26;cvo_campaign=000026UJ&#x26;cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork-20531532&#x26;cm_mmca1=000026UJ&#x26;cm_mmca2=10006555&#x26;cm_mmca3=M12345678&#x26;cvosrc=email.Newsletter.M12345678&#x26;cvo_campaign=000026UJ&#x26;cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork-20531532&#x26;cm_mmca1=000026UJ&#x26;cm_mmca2=10006555&#x26;cm_mmca3=M12345678&#x26;cvosrc=email.Newsletter.M12345678&#x26;cvo_campaign=000026UJ&#x26;cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork-20531532&#x26;cm_mmca1=000026UJ&#x26;cm_mmca2=10006555&#x26;cm_mmca3=M12345678&#x26;cvosrc=email.Newsletter.M12345678&#x26;cvo_campaign=000026UJ&#x26;cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork-20531532&#x26;cm_mmca1=000026UJ&#x26;cm_mmca2=10006555&#x26;cm_mmca3=M12345678&#x26;cvosrc=email.Newsletter.M12345678&#x26;cvo_campaign=000026UJ" target="_blank" rel="external">here</a>.
+      To get access to functions in the <code>seaborn</code> library or any library, you must first import the library. To import the <code>seaborn</code> library: <code>import seaborn</code>.
+    </p>
+    <p>Here is a quick summary for creating graphs and plots:</p>
+    <ul>
+      <li>Barplots: A barplot shows the relationship between a numeric and a categorical variable by plotting the categorical variables as bars in correspondence to the numerical variable. In the seaborn library, barplots are created by using the <code>barplot()</code> function. The following code <code>ax = seaborn.barplot(x="division", y="eval", data=division_eval)</code> will return a barplot that shows the average evaluation scores for the lower-division and upper-division.</li>
+    </ul>
+    <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork/labs/Templates/images/Barplots.png">
+    <ul>
+      <li>
+        Scatterplots: This is a two-dimensional plot that displays the relationship between two continuous data. Scatter plots are created by using the <code>scatterplot()</code> function in the seaborn library.
+        The following code: <code>ax = seaborn.scatterplot(x='age', y='eval', hue='gender', data=ratings_df)</code> will return a plot that shows the relationship between age and evaluation scores:
+      </li>
+    </ul>
+    <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork/labs/Templates/images/Screen_Shot_2020-10-26_at_3.17.26_PM.png">
+    <ul>
+      <li>Boxplots: A boxplot is a way of displaying the distribution of the data. It returns the minimum, first quartile, median, third quartile, and maximum values of the data. We use the <code>boxplot()</code> function in the seaborn library. This code <code>ax = seaborn.boxplot(y='beauty', data=ratings_df)</code> will return a boxplot with the data distribution for beauty. We can make the boxplots horizontal by specifying <code>x='beauty'</code> in the argument.</li>
+    </ul>
+    <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork/labs/Templates/images/boxplots.png">
+    <p>Other useful functions include <code>catplot()</code> to represent the relationship between a numerical value and one or more categorical variables, <code>distplot()</code>, and <code>histplot</code> for plotting histograms.</p>
+    <h2>Hypothesis Testing</h2>
+    <ul>
+      <li>
+        <p>Use the <code>norm.cdf()</code> function in the <code>scipy.stats</code> library to find the standardized (z-score) value. In cases where we are looking for the area to the right of the curve, we will remove the results above from 1. Remember to <code>import scipy.stats</code></p>
+      </li>
+      <li>
+        <p>Levene's test for equal variance: Levene's test is a test used to check for equality of variance among groups. We use the <code>scipy.stats.levene()</code> from the <code>scipy.stats</code> library.</p>
+      </li>
+      <li>
+        <p>T-test for two independent samples: This test compares the means of two independent groups to determine whether there is a significant difference in means for both groups. We use the <code>scipy.stats.ttest_ind()</code> from the <code>scipy.stats</code> library.</p>
+      </li>
+      <li>
+        <p>One-way ANOVA: It compares the mean between two or more independent groups to determine whether there is a statistical significance between them. We use the <code>scipy.stats.f_oneway()</code> from the <code>scipy.stats</code> library or you can use the <code>anova_lm()</code> from the <code>statsmodels</code> library.</p>
+      </li>
+      <li>
+        <p>Chi-square (𝜒2) test for association: Chi-square test for association tests the association between two categorical variables. To do this we must first create a crosstab of the counts in each group. We do this by using the <code>crosstab()</code> function in the <code>pandas</code> library. Then the <code>scipy.stats.chi2_contingency()</code> on the contingency table - it returns the 𝜒2 value, p-value, degree of freedom and expected values.</p>
+      </li>
+      <li>
+        <p>Pearson Correlation: Tests the correlation between two continuous variables. we use the <code>scipy.stats.pearsonr()</code> to get the correlation coefficient</p>
+      </li>
+      <li>
+        <p>To run the tests using Regression analysis, you will need the <code>OLS()</code> from the <code>statsmodels</code> library. When running these tests using regression analysis, you have <code>fit()</code> the model, make predictions using <code>predict()</code> and print out the model summary using <code>model.summary()</code></p>
+      </li>
+    </ul>
+    <h2>Author(s)</h2>
+    <p><a href="https://www.linkedin.com/in/aije-egwaikhide?cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork-20531532&#x26;cm_mmca1=000026UJ&#x26;cm_mmca2=10006555&#x26;cm_mmca3=M12345678&#x26;cvosrc=email.Newsletter.M12345678&#x26;cvo_campaign=000026UJ" target="_blank" rel="external">Aije Egwaikhide</a></p>
+    <h2>Changelog</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Version</th>
+          <th>Changed by</th>
+          <th>Change Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2020-10-26</td>
+          <td>1.0</td>
+          <td>Aije</td>
+          <td>Created the initial version of Statistics with python cheat sheet</td>
+        </tr>
+      </tbody>
+    </table>
+    <script>window.addEventListener('load', function() {
+snFaculty.inject();
+});</script>
+    <script src="https://skills-network-assets.s3.us.cloud-object-storage.appdomain.cloud/scripts/inject.min.js"></script>
+  </body>
+</html>
