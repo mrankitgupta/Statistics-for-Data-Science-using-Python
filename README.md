@@ -3,7 +3,6 @@ Sharing the solved Exercises & Project of Statistics for Data Science using Pyth
 
 ### About this Course
 
-
 This Statistics for Data Science course is designed to introduce you to the basic principles of statistical methods and procedures used for data analysis. After completing this course you will have practical knowledge of crucial topics in statistics including  - data gathering, summarizing data using descriptive statistics, displaying and visualizing data, examining relationships between variables, probability distributions, expected values, hypothesis testing, introduction to ANOVA (analysis of variance), regression and correlation analysis. You will take a hands-on approach to statistical analysis using Python and Jupyter Notebooks – the tools of choice for Data Scientists and Data Analysts. 
 
 At the end of the course, you will complete a project to apply various concepts in the course to a Data Science problem involving a real-life inspired scenario and demonstrate an understanding of the foundational statistical thinking and reasoning. The focus is on developing a clear understanding of the different 
@@ -11,7 +10,7 @@ approaches for different data types, developing an intuitive understanding, maki
 
 This course is suitable for a variety of professionals and students intending to start their journey in data and statistics-driven roles such as Data Scientists, Data Analysts, Business Analysts, Statisticians, and Researchers. It does not require any computer science or statistics background.  We strongly recommend taking the Python for Data Science course before starting this course to get familiar with the Python programming language,  Jupyter notebooks, and libraries. An optional refresher on Python is also provided.
 
-After completing this course, a learner will be able to:
+After completing this course, you will be able to:
 
 ✔ Calculate and apply measures of central tendency and measures of dispersion to grouped and ungrouped data.
 
@@ -22,5 +21,25 @@ After completing this course, a learner will be able to:
 ✔ Conduct hypothesis tests, correlation tests, and regression analysis.
 
 ✔ Demonstrate proficiency in statistical analysis using Python and Jupyter Notebooks.
+
+### About Project - Boston Housing Data Analysis using Python
+
+Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository1): CRIM: per capita crime rate by town
+
+ZN: proportion of residential land zoned for lots over 25,000 sq.ft.
+INDUS: proportion of non-retail business acres per town
+CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
+NOX: nitric oxides concentration (parts per 10 million)
+1https://archive.ics.uci.edu/ml/datasets/Housing
+123
+20.2. Load the Dataset 124
+RM: average number of rooms per dwelling
+AGE: proportion of owner-occupied units built prior to 1940
+DIS: weighted distances to ﬁve Boston employment centers
+RAD: index of accessibility to radial highways
+TAX: full-value property-tax rate per $10,000
+PTRATIO: pupil-teacher ratio by town 12. B: 1000(Bk−0.63)2 where Bk is the proportion of blacks by town 13. LSTAT: % lower status of the population
+MEDV: Median value of owner-occupied homes in $1000s
+We can see that the input attributes have a mixture of units.
 
 [My IBM Cloud Project Link](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/c1b5b665-7e89-41e6-9aae-d6f184d4245d/view?access_token=d106bb6c980e568aa5a41613f5601f81c9be999faa295fb2f2b61321e2ecbf46)
