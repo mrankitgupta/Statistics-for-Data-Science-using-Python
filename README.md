@@ -72,6 +72,17 @@ After completing this course, you will be able to:
 
 <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
 
+## Exercises - [Statistics for Data Science using Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
+
+|**Sr.No. 🔢**|**Exercises 👨‍💻**| **Links :link:**|
+|------|--------------------|---------------------|
+|1| Introduction to probability distribution | [Exercise 1](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python/blob/main/Exercises%20-%20Week%201%20to%206%20of%20Statistics%20for%20Data%20Science%20with%20Python/1.%20Introduction_to_probability_distribution.ipynb) |
+|2| Visualizing Data | [Exercise 2](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python/blob/main/Exercises%20-%20Week%201%20to%206%20of%20Statistics%20for%20Data%20Science%20with%20Python/2.%20Visualizing_Data.ipynb) |
+|3| Descriptive Stats | [Exercise 3](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python/blob/main/Exercises%20-%20Week%201%20to%206%20of%20Statistics%20for%20Data%20Science%20with%20Python/3.%20Descriptive_Stats.ipynb) |
+|4| Regression Analysis | [Exercise 4](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python/blob/main/Exercises%20-%20Week%201%20to%206%20of%20Statistics%20for%20Data%20Science%20with%20Python/4.%20Regression_Analysis.ipynb) |
+|5| Hypothesis Testing | [Exercise 5](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python/blob/main/Exercises%20-%20Week%201%20to%206%20of%20Statistics%20for%20Data%20Science%20with%20Python/5.%20Hypothesis_Testing.ipynb) |
+|6| Statistics for Data Science with Python | [Exercise 6](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python/blob/main/Exercises%20-%20Week%201%20to%206%20of%20Statistics%20for%20Data%20Science%20with%20Python/6.%20Statistics%20for%20Data%20Science%20with%20Python.ipynb) |
+
 ## Project - Boston Housing Data Analysis using Python
 
 **[My IBM Cloud Project Link](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/c1b5b665-7e89-41e6-9aae-d6f184d4245d/view?access_token=d106bb6c980e568aa5a41613f5601f81c9be999faa295fb2f2b61321e2ecbf46)** 🔗
