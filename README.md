@@ -2,7 +2,7 @@
 
 **I am sharing sharing the solved Exercises & Project of Statistics for Data Science using Python course by IBM on Coursera which I have solved into my journey of Data Science.** 
 
-**Prerequisite:** <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑 & <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️ 
+**Prerequisite:** <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass:, <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑 & <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️ 
 
 ### About this Course
 
