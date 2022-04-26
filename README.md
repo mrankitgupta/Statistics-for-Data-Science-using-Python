@@ -1,5 +1,8 @@
-# Statistics for Data Science using Python - by IBM
-Sharing the solved Exercises & Project of Statistics for Data Science using Python course on Coursera by Ankit Gupta
+<h1 align="center"> </a><a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="" width="25" height="25"/> </a> Statistics for Data Science using Python - by IBM <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
+
+**I am sharing sharing the solved Exercises & Project of Statistics for Data Science using Python course by IBM on Coursera which I have solved into my journey of Data Science.** 
+
+**Prerequisite:** <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑 & <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️ 
 
 ### About this Course
 
