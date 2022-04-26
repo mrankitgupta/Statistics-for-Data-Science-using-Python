@@ -25,6 +25,57 @@ After completing this course, you will be able to:
 
 ✔ Demonstrate proficiency in statistical analysis using Python and Jupyter Notebooks.
 
+## Technologies used ⚙️
+
+* <a href="https://github.com/mrankitgupta/Python-Lessons">Python</a> <a href="https://github.com/mrankitgupta/Python-Lessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
+
+* <a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python">Statistics</a><a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
+
+##### Python Libraries : 
+* <a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises">Pandas</a><a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> 
+
+* <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> 
+
+* <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> 
+
+* <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> 
+
+
+<h2 align="left">My Certifications 📜 🎓 ✔️</h2>
+
+- [Data Analysis with Python](https://github.com/mrankitgupta) - by IBM
+ 
+- [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
+
+- [Pandas](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) - by Kaggle
+ 
+- [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) - by Great Learning 
+
+- [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning
+
+- [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
+
+- [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
+
+
+## What are my Featured projects:question: 👨‍💻 🛰️
+
+<code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: 
+
+<code>[Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)</code> 📊
+
+<code>[Sales Insights - Data Analysis using Tableau & SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL)</code> 📊
+
+<code>[Kaggle - Pandas Solved Exercises](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises)</code> 📊
+ 
+<code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
+
+<code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
+
+## Project - Boston Housing Data Analysis using Python
+
+**[My IBM Cloud Project Link](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/c1b5b665-7e89-41e6-9aae-d6f184d4245d/view?access_token=d106bb6c980e568aa5a41613f5601f81c9be999faa295fb2f2b61321e2ecbf46)** 🔗
+
 ### About Project - Boston Housing Data Analysis using Python
 
 Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository1): CRIM: per capita crime rate by town
@@ -59,6 +110,3 @@ MEDV: Median value of owner-occupied homes in $1000s
 
 We can see that the input attributes have a mixture of units.
 
-### Project - Boston Housing Data Analysis using Python
-
-[My IBM Cloud Project Link](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/c1b5b665-7e89-41e6-9aae-d6f184d4245d/view?access_token=d106bb6c980e568aa5a41613f5601f81c9be999faa295fb2f2b61321e2ecbf46)
