@@ -34,7 +34,7 @@ After completing this course, you will be able to:
 ##### Python Libraries :  <a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises">Pandas</a><a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> | <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> | <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> | <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> 
 
 
-<h2 align="left">My Certifications 📜 🎓 ✔️</h2>
+<h2 align="left">Certifications 📜 🎓 ✔️</h2>
 
 - [Data Analysis with Python](https://github.com/mrankitgupta) - by IBM
  
@@ -42,10 +42,7 @@ After completing this course, you will be able to:
 
 - [Pandas](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) - by Kaggle
  
-- [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) - by Great Learning 
-
-- [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning
-
+- [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning 
 - [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
 
 - [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
